@@ -1,2 +1,2 @@
 # atividade7
-Lindha Eamnuelly Almeida Santiago
+Lindha Emanuelly Almeida Santiago
