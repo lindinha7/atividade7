@@ -1,11 +1,11 @@
 body {
-	background-color: #270531;
+	background-color: #c77fdd;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 header {
 	background-color: #bc50dd;
-	color: #dd59b5;
+	color: #c5108f;
 	padding: 20px;
 	text-align: center;
 }
@@ -22,7 +22,7 @@ nav li {
 }
 
 nav a {
-	color: #c43086;
+	color: #c9359c;
 	text-decoration: none;
 }
 
@@ -54,14 +54,14 @@ img {
 
 
 .menu {
-	background-color: #3b0537;
-	color: #c90eda;
+	background-color: #c77fdd;
+	color: #c9359c;
 	padding: 10px;
 	border-radius: 10px;
 }
 
 .menu:hover {
-	background-color: #bb55be;
+	background-color: #c77fdd;
 }
 
 
@@ -70,7 +70,7 @@ img {
 }
 
 a:hover {
-	color: #920e5b;
+	color: #c9359c;
 }
 
 .imagem-redonda {
