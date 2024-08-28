@@ -1,10 +1,10 @@
 body {
-	background-color: #a107cf;
+	background-color: #270531;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 header {
-	background-color: #2a0236;
+	background-color: #bc50dd;
 	color: #dd59b5;
 	padding: 20px;
 	text-align: center;
@@ -76,7 +76,7 @@ a:hover {
 .imagem-redonda {
     border-radius: 50%;
     width: 250px; 
-    height: 300px; 
+    height: 250px; 
     object-fit: cover; 
 }
 
