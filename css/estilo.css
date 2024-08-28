@@ -1,11 +1,11 @@
 body {
-	background-color: #4c085e;
+	background-color: #a107cf;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 header {
-	background-color: #a61ad1;
-	color: #a11176;
+	background-color: #2a0236;
+	color: #dd59b5;
 	padding: 20px;
 	text-align: center;
 }
@@ -22,12 +22,12 @@ nav li {
 }
 
 nav a {
-	color: #f50390;
+	color: #c43086;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: #700751;
+	color: #c9359c;
 }
 
 main {
