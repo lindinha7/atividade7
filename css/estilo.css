@@ -1,11 +1,11 @@
 body {
-	background-color: #b63cd4;
+	background-color: #ad2bce;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 header {
-	background-color: #d9cff5;
-	color: #fff;
+	background-color: #8615a8;
+	color: #a11176;
 	padding: 20px;
 	text-align: center;
 }
@@ -27,7 +27,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #ccc;
+	color: #700751;
 }
 
 main {
@@ -54,7 +54,7 @@ img {
 
 
 .menu {
-	background-color: #0ae4d9;
+	background-color: #3b0537;
 	color: #c90eda;
 	padding: 10px;
 	border-radius: 10px;
@@ -70,7 +70,7 @@ img {
 }
 
 a:hover {
-	color: #ccc;
+	color: #920e5b;
 }
 
 .imagem-redonda {
